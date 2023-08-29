@@ -8,6 +8,6 @@ sequenceDiagram
     server-->>browser: {"message":"note created"}
     deactivate server
 
-    Note right of browser: The browser didn't render the entire page but the new note!
+    Note right of browser: The browser didn't render the entire page again, but the new note to the page!
 ```
 
